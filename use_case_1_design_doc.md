@@ -2,7 +2,7 @@
 
 **Project:** Operational Technology (OT) Security Awareness for Entur Field Technicians  
 **Module:** Use Case 1 (Physical Hardware Inspection)  
-**Deliverable Type:** Conceptual Design & Interactive Figma Wireframe Spec  
+**Deliverable Type:** Conceptual Design & Interactive Figma Prototype  
 **Target Audience:** Entur Field Technicians & Depot Maintenance Personnel  
 
 ---
