@@ -32,7 +32,7 @@ This module trains field technicians to perform mandatory physical inspections o
 ### Screen 1: Scenario Briefing & Context
 
 * **Header Title:** `Module 1: Physical Hardware Inspection`
-* **Context Banner:** `Location: Bus Depot #4, Østlandet`
+* **Context Banner:** `Location: Bus Depot`
 * **Scenario Narrative:**  
   > You have been dispatched to perform routine maintenance on an onboard ticketing validator unit. Before connecting your diagnostic laptop or applying firmware updates, you must verify that the physical hardware has not been compromised or tampered with.
 * **Instruction:** Identify all 3 physical anomalies on the hardware photo.
