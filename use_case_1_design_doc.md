@@ -39,7 +39,7 @@ This module trains field technicians to perform mandatory physical inspections o
 * **UI Controls:** Primary Button `[ Begin Physical Inspection ]`
 
 Sketch:
-!(./images/figure2.png)
+![Intact ticketing terminal](./images/figure2.png)
 ---
 
 ### Screen 2: Interactive Inspection Interface
