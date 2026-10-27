@@ -38,6 +38,8 @@ This module trains field technicians to perform mandatory physical inspections o
 * **Instruction:** Identify all 3 physical anomalies on the hardware photo.
 * **UI Controls:** Primary Button `[ Begin Physical Inspection ]`
 
+Sketch:
+!(./images/figure2.png)
 ---
 
 ### Screen 2: Interactive Inspection Interface
