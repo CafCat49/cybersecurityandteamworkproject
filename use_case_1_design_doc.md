@@ -47,13 +47,6 @@ Sketch:
 * **Layout:** Centered high-resolution visual of an Entur onboard ticketing validator unit with 3 hidden clickable hotspot areas.
 * **UI Counter:** `Anomalies Found: X / 3`
 
-UI Sketch:
-![User interface](./images/figure1.png)
-
-Image sketches:
-![Terminal front view](./images/figure3.png)
-![Terminal back view](./images/figure4.png)
-
 #### Hotspot Specifications & Feedback Data
 
 | Hotspot ID | Element | Visual Location | Associated Security Risk | Triggered Feedback Text |
@@ -65,6 +58,13 @@ Image sketches:
 * **Default / Missed Click Feedback:**
   * **Trigger:** Click on normal component (e.g., standard mounting bolt, touch screen glass).
   * **System Response:** Toast notification: 🔴 *Standard hardware component. Check ports, seals, and cable connections for anomalies.*
+
+UI Sketch:
+![User interface](./images/figure1.png)
+
+Image sketches:
+![Terminal front view](./images/figure3.png)
+![Terminal back view](./images/figure4.png)
 
 ---
 
